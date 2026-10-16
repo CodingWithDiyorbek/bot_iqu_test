@@ -1,0 +1,7 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+icu_test.db
+icu_test_foydalanuvchilar.xlsx
